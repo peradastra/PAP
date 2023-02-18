@@ -1,4 +1,4 @@
-# POLARtron Analysis Pipeline (PAP)
+# POLARtron Analysis (PA) Pipeline 
 
 # Contents
 * [Installation](#installation)
@@ -8,7 +8,7 @@
 
 # Installation
 
-The Polar pipeline and all its dependencies are Linux based, typically running under Linux
+The POLARtron Analysis (PA) pipeline and all its dependencies are Linux based, typically running under Linux
 operating system, preferably (but not necessarily) on a computer cluster. The included test
 set can run on a laptop in under 5 minutes. There are several options for installation, detailed below.
 ![Pipline image](assets/pap_overview.png)
